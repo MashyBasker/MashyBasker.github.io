@@ -1,0 +1,28 @@
+baseURL: https://mashybasker.github.io/
+languageCode: en-us
+theme: PaperMod
+title: site
+
+params:
+  defaultTheme: light
+  homeInfoParams:
+    Title: "maharshi basu \t \U00002615"
+    Content: >-
+      This blog post explains how to build and publish your own blog as a static website with a framework called Hugo and its PaperMod theme. We will host the website on GitLab Pages, and then register a domain on Squarespace, for a custom URL. The above image shows the end result of this tutorial.
+  socialIcons:
+    - name: email
+      url: 'mailto:basumaharshi10@gmail.com'
+    - name: github
+      url: 'https://github.com/MashyBasker'
+    - name: mastodon
+      url: 'https://hachyderm.io/@okabe'
+    - name: twitter
+      url: 'https://x.com/_okabe_10'
+    - name: discord
+      url: 'https://discordapp.com/users/757595173818466356'
+assets:
+  favicon: "/favicon.ico"
+  favicon16x16: "/favicon-16x16.png"
+  favicon32x32: "/favicon-32x32.png"
+  apple_touch_icon: "/apple-touch-icon.png"
+
