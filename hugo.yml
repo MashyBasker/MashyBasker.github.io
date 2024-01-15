@@ -4,7 +4,8 @@ theme: PaperMod
 title: site
 
 params:
-  defaultTheme: light
+  defaultTheme: auto
+  disableThemeToggle: false
   homeInfoParams:
     Title: "maharshi basu \t \U00002615"
     Content: >-
