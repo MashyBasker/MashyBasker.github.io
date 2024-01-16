@@ -9,17 +9,10 @@ params:
   homeInfoParams:
     Title: "maharshi basu \t \U00002615"
     Content: >-
-      <div> <! ---- main page content>
-      <p>
-          Hey, I'm a CS undergrad from India and a developer at the <a href="https://coccinelle.gitlabpages.inria.fr/website/">Coccinelle</a> project. I have a keen interest in low-level programming, operating systems, and Linux. Recently, I've delved into learning DevOps and automation, along with the necessary tools.
-      </p>
-      </div>
-      <div>
-      <p>
-      I enjoy anime, reading, and working out. Nice to meet you!
-      You can reach out to me on the following platforms."
-      </p>
-      </p>
+        Hey, I'm a CS undergrad from India and a developer at the <a href="https://coccinelle.gitlabpages.inria.fr/website/">Coccinelle</a> project. I have a keen interest in low-level programming, operating systems, and Linux. Recently, I've delved into learning DevOps and automation, along with the necessary tools.
+        I enjoy anime, reading, and working out. Nice to meet you!
+        
+        You can reach out to me on the following platforms.
   socialIcons:
     - name: email
       url: 'mailto:basumaharshi10@gmail.com'
