@@ -3,6 +3,25 @@ languageCode: en-us
 theme: PaperMod
 title: basu
 
+markup:
+  goldmark:
+    extensions:
+      definitionList: true
+      footnote: true
+      linkify: true
+      strikethrough: true
+      table: true
+      taskList: true
+      typographer: true
+    parser:
+      attribute:
+        block: false
+        title: true
+      autoHeadingID: true
+      autoHeadingIDType: github
+    renderer:
+      hardWraps: false
+      unsafe: true # <- this enables HTML rendering
 params:
   defaultTheme: auto
   disableThemeToggle: false
