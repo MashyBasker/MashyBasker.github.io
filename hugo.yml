@@ -8,8 +8,17 @@ params:
   disableThemeToggle: false
   homeInfoParams:
     Title: "maharshi basu \t \U00002615"
-    Content: >-
-      Hey there!
+    Content: >
+      <div> <! ---- main page content>
+      <p>
+          Hey, I'm a CS undergrad from India and a developer at the <a href="https://coccinelle.gitlabpages.inria.fr/website/">Coccinelle</a> project. I have a keen interest in low-level programming, operating systems, and Linux. Recently, I've delved into learning DevOps and automation, along with the necessary tools.
+      </p>
+      </div>
+      <div>
+      <p>
+      I enjoy anime, reading, and working out. Nice to meet you!
+      You can reach out to me on the following platforms."
+      </p>
   socialIcons:
     - name: email
       url: 'mailto:basumaharshi10@gmail.com'
@@ -21,6 +30,8 @@ params:
       url: 'https://x.com/_okabe_10'
     - name: discord
       url: 'https://discordapp.com/users/757595173818466356'
+    - name: goodreads
+      url: 'https://www.goodreads.com/user/show/122853903-maharshi-basu'
 assets:
   favicon: "/favicon.ico"
   favicon16x16: "/favicon-16x16.png"
