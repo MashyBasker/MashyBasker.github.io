@@ -45,10 +45,6 @@ params:
       url: 'https://hachyderm.io/@okabe'
     - name: twitter
       url: 'https://x.com/_okabe_10'
-    - name: discord
-      url: 'https://discordapp.com/users/757595173818466356'
-    - name: goodreads
-      url: 'https://www.goodreads.com/user/show/122853903-maharshi-basu'
 assets:
   favicon: "/favicon.ico"
   favicon16x16: "/favicon-16x16.png"
