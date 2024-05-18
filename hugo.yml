@@ -29,22 +29,23 @@ params:
     Title: "maharshi basu \t \U00002615"
     Content: >-
         <div>
-          <p>Hey, I'm a CS undergrad from India and a developer at the <a href="https://coccinelle.gitlabpages.inria.fr/website/">Coccinelle</a> project. I have a keen interest in low-level programming, operating systems, and Linux. Recently, I've delved into learning DevOps and automation, along with the necessary tools.</p>
+          <p>I'm a CS undergrad from India and a developer at the <a href="https://coccinelle.gitlabpages.inria.fr/website/">Coccinelle</a> project. <br> 
+          I'm into systems programming, Linux, and working on infrastructure and automation.</p>
         </div>
         <div>
-        <p> <br>I enjoy anime, reading, and working out. You can reach out to me on the following platforms.</p>
+        <p> <br>In my free time, I enjoy anime, reading, swimming and curating <a href="https://open.spotify.com/user/gc6xiikgscs47l9rgsrqr7ym1?si=857c5781c26e4363">music</a>.</p>
 
         </div>
         
   socialIcons:
-    - name: email
-      url: 'mailto:basumaharshi10@gmail.com'
     - name: github
       url: 'https://github.com/MashyBasker'
     - name: mastodon
       url: 'https://hachyderm.io/@okabe'
     - name: twitter
       url: 'https://x.com/_okabe_10'
+    - name: linkedin
+      url: 'https://www.linkedin.com/in/basum10/'
 assets:
   favicon: "/favicon.ico"
   favicon16x16: "/favicon-16x16.png"
