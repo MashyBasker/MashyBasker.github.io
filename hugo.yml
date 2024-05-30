@@ -43,7 +43,7 @@ params:
     - name: mastodon
       url: 'https://hachyderm.io/@okabe'
     - name: twitter
-      url: 'https://x.com/_okabe_10'
+      url: 'https://x.com/basukabe'
 assets:
   favicon: "/favicon.ico"
   favicon16x16: "/favicon-16x16.png"
