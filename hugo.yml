@@ -29,11 +29,10 @@ params:
     Title: "maharshi basu \t \U00002615"
     Content: >-
         <div>
-          <p>I'm a CS undergrad from India and a developer at the <a href="https://coccinelle.gitlabpages.inria.fr/website/">Coccinelle</a> project. <br> 
-          I'm into systems programming, Linux, and working on infrastructure and automation.</p>
+          <p>A CS undergrad from India and a developer at the <a href="https://coccinelle.gitlabpages.inria.fr/website/">Coccinelle</a> project. I'm passionate about software performance and optimization, focusing on vectorization and parallel programming in systems. In my spare time, I enjoy building personal projects and contributing to open-source software. </p>
         </div>
         <div>
-        <p> <br>In my free time, I enjoy anime, reading, swimming and curating <a href="https://open.spotify.com/user/gc6xiikgscs47l9rgsrqr7ym1?si=857c5781c26e4363">music</a>.</p>
+        <p> <br>My hobbies include swimming, watching anime, reading and curating <a href="https://open.spotify.com/user/gc6xiikgscs47l9rgsrqr7ym1?si=857c5781c26e4363">music</a>.</p>
 
         </div>
         
