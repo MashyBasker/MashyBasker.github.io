@@ -43,6 +43,8 @@ params:
       url: 'https://hachyderm.io/@okabe'
     - name: twitter
       url: 'https://x.com/chisanmei'
+    - name: ctftime
+      url: 'https://ctftime.org/user/193026'
 assets:
   favicon: "/favicon.ico"
   favicon16x16: "/favicon-16x16.png"
