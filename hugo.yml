@@ -1,7 +1,7 @@
 baseURL: https://mashybasker.github.io/
 languageCode: en-us
 theme: PaperMod
-title: basu
+title: okabe
 
 markup:
   goldmark:
@@ -45,6 +45,8 @@ params:
       url: 'https://x.com/chisanmei'
     - name: ctftime
       url: 'https://ctftime.org/user/193026'
+    - name: linkedin
+      url: 'https://www.linkedin.com/in/basum10/'
 assets:
   favicon: "/favicon.ico"
   favicon16x16: "/favicon-16x16.png"
